@@ -14,7 +14,7 @@ Advanced Renamer Portable focuses on predictable batch-renaming workflows:
 - **Undo Support:** Advanced Renamer undo rename restores names after an unwanted operation.
 - **Extensible Rules:** Advanced Renamer regex and Advanced Renamer JavaScript scripting handle complex transformations.
 
-![Advanced Renamer method preview](src/image1.jpeg)
+![Advanced Renamer method preview](src/image1.jpg)
 
 ## Features
 
